@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @princeonetime
-- 👀 I’m interested in ...Python,DBMS,C
+- 👀 I’m interested in ...Python,MySQL,PowerBi,Excel
 - 🌱 I’m currently learning ... ML with Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
